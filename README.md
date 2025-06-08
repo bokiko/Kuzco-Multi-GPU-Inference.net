@@ -397,13 +397,12 @@ docker system prune -f
 
 ## 📈 Success Stories
 
-### KUZCO Empire - 8 GPU Beast Rig
+###  8 GPU Beast Rig
 ```
 Configuration: 3x RTX 3070, 2x RTX 3060 Ti, 3x RTX 3070 Ti
 Installation: Single command deployment
 Uptime: 99.9% with auto-restart
-Performance: 150+ jobs/hour sustained
-ROI: Positive within first month
+
 ```
 
 ## 🤝 Contributing
@@ -421,7 +420,7 @@ MIT License - Use, modify, and distribute freely.
 
 **🔥 Install Once, Mine Forever! 💰**
 
-*Created by [Bokiko](https://github.com/bokiko) - The Ultimate GPU Mining Setup Revolution*
+*Created by [Bokiko](https://github.com/bokiko) 
 
 ---
 
