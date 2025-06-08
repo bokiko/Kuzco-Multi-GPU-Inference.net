@@ -2,8 +2,9 @@
 
 **The Revolutionary Auto-Persistence Installer That Changes Everything**
 
-Important note: "you need to expand ram and disk space , for each gpu you need at least 50GB of space and the same amount of Vram as system ram"
+## ⚠️ IMPORTANT: RAM Requirements
 
+**Before installing, check your system RAM with `free -h`. Each inference container uses 4-6GB of memory. For 16GB systems, run maximum 2-3 containers to avoid system slowdowns. For 32GB+ systems, you can run 4-8 containers. If your system becomes slow after deployment, immediately stop some containers with `docker stop "container_name` and run fewer containers. More RAM = more containers = higher earnings, but stability is more important than quantity.**
 ## 🚀 One-Command Installation
 
 ```bash
