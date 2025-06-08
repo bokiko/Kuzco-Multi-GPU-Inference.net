@@ -2,6 +2,8 @@
 
 **The Revolutionary Auto-Persistence Installer That Changes Everything**
 
+Important note: "you need to expand ram and disk space , for each gpu you need at least 50GB of space and the same amount of Vram as system ram"
+
 ## 🚀 One-Command Installation
 
 ```bash
